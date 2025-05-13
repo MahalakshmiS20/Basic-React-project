@@ -6,7 +6,7 @@ import Navbar from './components/Navbar'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import Article from './components/Article'
-import Tablesection from './components/tablesectiion'
+import Tablesection from './components/Tablesection'
 import Aside from './components/Aside'
 import Footer from './components/Footer'
 
